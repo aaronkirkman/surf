@@ -1,4 +1,4 @@
-My build of surf 2.0 with custom patches (and keybindings, in `config.h`). See [https://surf.suckless.org/](https://surf.suckless.org/) for details.
+My build of surf 2.0 with custom patches (and keybindings, in `config.h`). JavaScript is disabled by default. See [https://surf.suckless.org/](https://surf.suckless.org/) for details.
 
 To build surf on Debian 10 ("buster"), make sure you clone the `surf-webkit2` branch and install the correct dependencies:
 
