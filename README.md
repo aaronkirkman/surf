@@ -10,6 +10,10 @@ To build surf on Debian 10 ("buster"), make sure you clone the `surf-webkit2` br
     
 Patches included:
 
+   - homepage
+      - Adds a homepage that is loaded than no URL is passed to surf
+      - Refer to [https://surf.suckless.org/patches/homepage/](https://surf.suckless.org/patches/homepage/)
+
    - web-search
       - Adds a search feature that uses MODKEY+s to search [Startpage](https://www.startpage.com/).
       - Keybindings included in `config.h`
