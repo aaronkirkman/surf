@@ -15,7 +15,10 @@ Patches included:
       - Keybindings included in `config.h`
       - Refer to [https://surf.suckless.org/patches/web-search/](https://surf.suckless.org/patches/web-search/)
 
-    
 
-    
 
+Scripts included
+
+   - untarget
+      - Strips `target="_blank'"` attribute from tags on page load, which prevents the browser from opening new windows unexpectedly.
+      - Refer to [https://surf.suckless.org/files/untarget/](https://surf.suckless.org/files/untarget/)
